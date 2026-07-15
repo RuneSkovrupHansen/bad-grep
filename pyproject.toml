@@ -1,0 +1,9 @@
+[project]
+name = "bad-grep"
+version = "0.1.0"
+description = "A bad Python implementation of grep"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aiofile>=3.11.1",
+]

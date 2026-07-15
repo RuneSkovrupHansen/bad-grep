@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated benchmark corpus (see gen_corpus.sh)
+/files/
+
